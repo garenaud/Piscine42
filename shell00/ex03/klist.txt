@@ -1,0 +1,5 @@
+Credentials cache: API:DEB66B9C-25D5-4C8B-A07A-9AA151C8268A
+        Principal: grenaud-@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug 31 15:56:55 2021  Sep  1 01:56:55 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
